@@ -12,7 +12,7 @@ The Breast Cancer Wisconsin Diagnostic dataset is publicly available and consist
 ## Models
 Two models were used in this analysis:
 1. **RandomForestClassifier**
-2. **LogisticRegression**
+2. **LogisticRegression** (inside model2 branch of the github repository)
 
 ## Results
 ### RandomForestClassifier
